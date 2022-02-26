@@ -8,4 +8,5 @@ Challenge link [here](https://www.frontendmentor.io/challenges/advice-generator-
 
 ## Created using
 Vanilla Javascript<br>
-SASS
+SASS<br>
+adviceslip API
